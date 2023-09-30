@@ -1,2 +1,2 @@
 # Face_Emotion_Detection
-Detecting emotion of person using deep learning
+Detecting emotion of a person using deep learning
